@@ -1,0 +1,42 @@
+{
+  "streams": [
+    {
+      "title": "my stream ",
+      "description": "this is a great stream",
+      "id": 1
+    },
+    {
+      "title": "fef",
+      "description": "fef and fef",
+      "id": 7
+    },
+    {
+      "title": "fef",
+      "description": "fef and fef",
+      "id": 8
+    },
+    {
+      "title": "I created this streamferef",
+      "description": "This is the stream that I createdrev",
+      "id": 9
+    },
+    {
+      "title": "roxana ",
+      "description": "roxana content",
+      "userId": "100145959728804896955",
+      "id": 10
+    },
+    {
+      "title": "Bogdan",
+      "description": "Content",
+      "userId": "100145959728804896955",
+      "id": 11
+    },
+    {
+      "title": "roxana ",
+      "description": "mica",
+      "userId": "100145959728804896955",
+      "id": 12
+    }
+  ]
+}
